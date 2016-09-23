@@ -1,0 +1,12 @@
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+corpus/
+data-processed/
+fig1.eps
+fig1.ps
+figuresTables/
+peerj.Rproj
+scripts-exploratory/
+writingandarticles/
